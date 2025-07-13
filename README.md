@@ -1,5 +1,5 @@
 3D Pipe Scanner using Laser Triangulation
-[https://https://github.com/Arashpirak/3D-scanning-using-laser-triangulation/edit/main/image.png]
+[https://github.com/Arashpirak/3D-scanning-using-laser-triangulation/edit/main/image.png]
 
 Description
 This project implements a 3D scanning system using a camera and a line laser (laser triangulation) to reconstruct the shape of a pipe (or similar cylindrical object). It processes images of the laser line projected onto the object, calculates 3D points, fits the shape, and visualizes the results along with an ideal cylinder model.
